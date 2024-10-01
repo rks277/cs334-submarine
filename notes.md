@@ -1,0 +1,1 @@
+Need to plug the 5v joystick pin into the 3V3 pin on the esp32
