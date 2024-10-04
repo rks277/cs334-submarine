@@ -3,7 +3,7 @@ import serial
 import time
 
 # Set up the serial communication (adjust the port and baud rate accordingly)
-ser = serial.Serial('/dev/cu.usbserial-0001', 9600, timeout=1)  # Adjust for your system
+ser = serial.Serial('/dev/cu.usbserial-0001', 9600, timeout=1)
 
 # Initialize Pygame
 pygame.init()
